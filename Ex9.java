@@ -10,6 +10,6 @@ public class Ex9 {
             System.out.println(b);
             a = a + 2;
             b = b + a;
-        }
+        }scan.close();
     }
 }
