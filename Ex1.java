@@ -7,6 +7,5 @@ public class Ex1 {
             System.out.println(a);
            a = a + 1;
         }
-        scan.close();
     }
 }
