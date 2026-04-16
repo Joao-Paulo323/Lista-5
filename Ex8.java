@@ -13,6 +13,6 @@ public class Ex8 {
             loop = loop + 1;
         } b = b/5;
         System.out.printf("A média de suas notas foi de %.2f%n",b);
-
+scan.close();
     }
 }
