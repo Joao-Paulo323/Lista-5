@@ -12,7 +12,7 @@ public class Ex5 {
             System.out.println(b);
             b = b + 5;
         }
-
+        scan.close();
 
     }
 }
