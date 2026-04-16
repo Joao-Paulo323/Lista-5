@@ -12,6 +12,6 @@ public class Ex7 {
             System.out.println(b);
             c = c+1;
             b = b+c;
-        }
+        }scan.close();
     }
 }
